@@ -1,0 +1,11 @@
+{
+  "name": "pahrmi-pharmacy-backend",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "nodemailer": "^6.10.1"
+  }
+}
